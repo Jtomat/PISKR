@@ -1,0 +1,7 @@
+D:\Sourse\VS\repos\KR\HOST\bin\Debug\HOST.exe.config
+D:\Sourse\VS\repos\KR\HOST\bin\Debug\HOST.exe
+D:\Sourse\VS\repos\KR\HOST\bin\Debug\HOST.pdb
+D:\Sourse\VS\repos\KR\HOST\obj\Debug\HOST.csprojAssemblyReference.cache
+D:\Sourse\VS\repos\KR\HOST\obj\Debug\HOST.csproj.CoreCompileInputs.cache
+D:\Sourse\VS\repos\KR\HOST\obj\Debug\HOST.exe
+D:\Sourse\VS\repos\KR\HOST\obj\Debug\HOST.pdb

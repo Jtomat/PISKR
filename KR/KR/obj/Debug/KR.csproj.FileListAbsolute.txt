@@ -1,0 +1,7 @@
+D:\Sourse\VS\repos\KR\KR\bin\KR.dll.config
+D:\Sourse\VS\repos\KR\KR\bin\KR.dll
+D:\Sourse\VS\repos\KR\KR\bin\KR.pdb
+D:\Sourse\VS\repos\KR\KR\obj\Debug\KR.csprojAssemblyReference.cache
+D:\Sourse\VS\repos\KR\KR\obj\Debug\KR.csproj.CoreCompileInputs.cache
+D:\Sourse\VS\repos\KR\KR\obj\Debug\KR.dll
+D:\Sourse\VS\repos\KR\KR\obj\Debug\KR.pdb

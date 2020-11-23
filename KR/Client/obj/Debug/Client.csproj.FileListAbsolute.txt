@@ -1,0 +1,10 @@
+D:\Sourse\VS\repos\KR\Client\bin\Debug\Client.exe.config
+D:\Sourse\VS\repos\KR\Client\bin\Debug\Client.exe
+D:\Sourse\VS\repos\KR\Client\bin\Debug\Client.pdb
+D:\Sourse\VS\repos\KR\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Sourse\VS\repos\KR\Client\obj\Debug\Client.Form1.resources
+D:\Sourse\VS\repos\KR\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Sourse\VS\repos\KR\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Sourse\VS\repos\KR\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Sourse\VS\repos\KR\Client\obj\Debug\Client.exe
+D:\Sourse\VS\repos\KR\Client\obj\Debug\Client.pdb
